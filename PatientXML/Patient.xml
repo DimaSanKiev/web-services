@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.web-services.com/Patient"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.web-services.com/Patient Patient.xsd ">
+	
+	<tns:id>j</tns:id>
+	<tns:name>Bob</tns:name>
+	<tns:age>33</tns:age>
+	<tns:dob>2001-01-01</tns:dob>
+	<tns:email>bob@email.com</tns:email>
+	<tns:gender>m</tns:gender>
+	<tns:phone>1234567890</tns:phone>
+</tns:patient>
