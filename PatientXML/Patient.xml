@@ -3,11 +3,12 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.web-services.com/Patient Patient.xsd ">
 	
-	<tns:id>j</tns:id>
-	<tns:name>Bob</tns:name>
-	<tns:age>33</tns:age>
+	<tns:id>1</tns:id>
+	<tns:name>Dave</tns:name>
+	<tns:age>0</tns:age>
 	<tns:dob>2001-01-01</tns:dob>
 	<tns:email>bob@email.com</tns:email>
-	<tns:gender>m</tns:gender>
+	<tns:gender>M</tns:gender>
 	<tns:phone>1234567890</tns:phone>
+	
 </tns:patient>
