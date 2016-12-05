@@ -3,3 +3,4 @@ out/
 .gitattributes
 web-services.iml
 PatientXML/.project
+UserProfile/.project
