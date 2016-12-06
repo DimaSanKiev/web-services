@@ -4,3 +4,8 @@ out/
 web-services.iml
 PatientXML/.project
 UserProfile/.project
+jaxb-xjc/com.web-services/.settings/
+jaxb-xjc/com.web-services/target/
+jaxb-xjc/com.web-services/.classpath
+jaxb-xjc/com.web-services/.project
+jaxb-xjc/com.web-services/com.web-services.iml
